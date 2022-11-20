@@ -1,0 +1,13 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2003년 01월 18일 15시,0,14.2,146.5,1000,18,65,110,약,소형,북서,19,null
+2003년 01월 18일 15시,24,15.1,146.9,null,null,null,null,null,null,null,null,170
+2003년 01월 18일 15시,48,17,149.8,null,null,null,null,null,null,null,null,370
+2003년 01월 18일 15시,72,19,153.6,null,null,null,null,null,null,null,null,560
+2003년 01월 19일 15시,0,15.2,148.8,1000,18,65,280,약,소형,동,17,null
+2003년 01월 19일 15시,24,16,150,null,null,null,null,null,null,null,null,190
+2003년 01월 19일 15시,48,17,154,null,null,null,null,null,null,null,null,310
+2003년 01월 19일 15시,72,19,158.5,null,null,null,null,null,null,null,null,460
+2003년 01월 20일 15시,0,17.2,153.4,1000,18,65,280,약,소형,동북동,17,null
+2003년 01월 20일 15시,24,18.5,156,null,null,null,null,null,null,null,null,190
+2003년 01월 20일 15시,48,20.5,160.5,null,null,null,null,null,null,null,null,310
+2003년 01월 20일 21시,0,18,155,1004,null,null,null,null,null,동북동,35,null

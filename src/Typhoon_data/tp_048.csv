@@ -1,0 +1,17 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2002년 10월 09일 21시,0,13.2,152.3,992,21,76,830,약,초대형,서북서,24,null
+2002년 10월 09일 21시,24,18.2,149.8,null,null,null,null,null,null,null,null,200
+2002년 10월 09일 21시,48,20.2,145.9,null,null,null,null,null,null,null,null,310
+2002년 10월 10일 15시,0,14.7,150.3,990,21,76,520,약,대형,북북서,11,null
+2002년 10월 10일 15시,24,18.6,147.6,null,null,null,null,null,null,null,null,200
+2002년 10월 10일 15시,48,21.2,144.1,null,null,null,null,null,null,null,null,310
+2002년 10월 11일 15시,0,19.6,148.8,985,26,94,790,중,대형,북북서,30,null
+2002년 10월 11일 15시,24,26.4,145.6,null,null,null,null,null,null,null,null,200
+2002년 10월 11일 15시,48,31.8,145.5,null,null,null,null,null,null,null,null,310
+2002년 10월 12일 15시,0,24.1,147.1,985,23,83,640,약,대형,서북서,8,null
+2002년 10월 12일 15시,24,29.3,146,null,null,null,null,null,null,null,null,200
+2002년 10월 12일 15시,48,39,148.8,null,null,null,null,null,null,null,null,400
+2002년 10월 13일 15시,0,29,147.6,985,25,90,650,중,대형,북,21,null
+2002년 10월 13일 15시,24,38.5,152.3,null,null,null,null,null,null,null,null,200
+2002년 10월 13일 15시,48,46,163,null,null,null,null,null,null,null,null,450
+2002년 10월 14일 03시,0,34,149,988,null,null,null,null,null,북북동,54,null

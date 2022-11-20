@@ -1,0 +1,14 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2001년 12월 05일 15시,0,10.9,125.5,998,18,65,430,약,중형,서북서,18,null
+2001년 12월 05일 15시,24,11.4,120.8,null,null,null,null,null,null,null,null,190
+2001년 12월 05일 15시,48,13,115,null,null,null,null,null,null,null,null,310
+2001년 12월 06일 09시,0,11.7,122,998,18,65,370,약,중형,서북서,19,null
+2001년 12월 06일 09시,24,12.3,117,null,null,null,null,null,null,null,null,190
+2001년 12월 06일 09시,48,13.3,112.5,null,null,null,null,null,null,null,null,310
+2001년 12월 07일 09시,0,12.4,117.7,998,18,65,460,약,중형,서,18,null
+2001년 12월 07일 09시,24,13.7,114.1,null,null,null,null,null,null,null,null,190
+2001년 12월 07일 09시,48,14.3,110,null,null,null,null,null,null,null,null,310
+2001년 12월 08일 09시,0,13.2,113.9,996,18,65,370,약,중형,서북서,18,null
+2001년 12월 08일 09시,24,14,110,null,null,null,null,null,null,null,null,190
+2001년 12월 08일 09시,48,14.8,107,null,null,null,null,null,null,null,null,310
+2001년 12월 08일 21시,0,13.4,111.8,1002,null,null,null,null,null,서,18,null

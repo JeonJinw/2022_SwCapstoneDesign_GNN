@@ -1,0 +1,16 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2003년 09월 27일 03시,0,20.4,138.4,996,18,65,190,약,소형,북동,15,null
+2003년 09월 27일 03시,24,23.5,140.7,null,null,null,null,null,null,null,null,200
+2003년 09월 27일 03시,48,26,142,null,null,null,null,null,null,null,null,300
+2003년 09월 27일 03시,72,29,143.5,null,null,null,null,null,null,null,null,450
+2003년 09월 28일 09시,0,24.8,140.9,975,28,101,560,중,대형,북동,21,null
+2003년 09월 28일 09시,24,28.3,142.2,null,null,null,null,null,null,null,null,200
+2003년 09월 28일 09시,48,34.1,147.4,null,null,null,null,null,null,null,null,400
+2003년 09월 28일 09시,72,44.2,159,null,null,null,null,null,null,null,null,650
+2003년 09월 29일 09시,0,27.3,141.2,965,33,119,520,강,대형,북동,15,null
+2003년 09월 29일 09시,24,33.1,146.6,null,null,null,null,null,null,null,null,200
+2003년 09월 29일 09시,48,46,157,null,null,null,null,null,null,null,null,460
+2003년 09월 30일 09시,0,32,147,970,31,112,520,중,대형,북동,61,null
+2003년 09월 30일 09시,12,38.4,153.5,null,null,null,null,null,null,null,null,180
+2003년 09월 30일 09시,24,47.2,157.3,null,null,null,null,null,null,null,null,280
+2003년 09월 30일 15시,0,35,150,976,null,null,null,null,null,북동,65,null

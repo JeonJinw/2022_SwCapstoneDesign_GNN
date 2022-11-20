@@ -1,0 +1,11 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2001년 07월 24일 09시,0,20.3,118.5,985,23,83,200,약,소형,서북서,25,null
+2001년 07월 24일 09시,24,22,115.8,null,null,null,null,null,null,null,null,180
+2001년 07월 24일 09시,48,23.6,113.3,null,null,null,null,null,null,null,null,360
+2001년 07월 24일 21시,0,20.6,115.8,980,26,94,200,중,소형,서,20,null
+2001년 07월 24일 21시,24,21.7,113.3,null,null,null,null,null,null,null,null,180
+2001년 07월 24일 21시,48,23.3,110.1,null,null,null,null,null,null,null,null,360
+2001년 07월 25일 21시,0,21.2,112.3,970,30,108,200,중,소형,서북서,15,null
+2001년 07월 25일 21시,24,21.8,110.4,null,null,null,null,null,null,null,null,180
+2001년 07월 25일 21시,48,23.1,108.2,null,null,null,null,null,null,null,null,360
+2001년 07월 26일 11시,0,21.4,109.8,996,null,null,null,null,null,서,22,null

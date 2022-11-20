@@ -1,0 +1,8 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2003년 08월 19일 12시,0,21.6,125.4,998,18,65,150,약,소형,북서,37,null
+2003년 08월 19일 12시,24,26,120,null,null,null,null,null,null,null,null,200
+2003년 08월 19일 12시,48,28,114.5,null,null,null,null,null,null,null,null,300
+2003년 08월 20일 09시,0,27.4,120.8,996,18,65,150,약,소형,북서,40,null
+2003년 08월 20일 09시,12,28.3,118.7,null,null,null,null,null,null,null,null,120
+2003년 08월 20일 09시,24,29.1,115.3,null,null,null,null,null,null,null,null,200
+2003년 08월 20일 12시,0,27.8,119.9,1000,null,null,null,null,null,북서,39,null

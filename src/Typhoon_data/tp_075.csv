@@ -1,0 +1,14 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2004년 05월 18일 09시,0,8.4,138.6,995,18,65,90,약,소형,북서,10,null
+2004년 05월 18일 09시,24,10.5,136.8,null,null,null,null,null,null,null,null,180
+2004년 05월 18일 09시,48,14,135.5,null,null,null,null,null,null,null,null,330
+2004년 05월 18일 09시,72,20,136,null,null,null,null,null,null,null,null,450
+2004년 05월 19일 15시,0,10.9,134.2,995,20,72,100,약,소형,북북서,24,null
+2004년 05월 19일 15시,24,16.8,134.4,null,null,null,null,null,null,null,null,200
+2004년 05월 19일 15시,48,21.1,137.1,null,null,null,null,null,null,null,null,300
+2004년 05월 19일 15시,72,25.1,140,null,null,null,null,null,null,null,null,400
+2004년 05월 20일 15시,0,13.5,133.7,990,23,83,280,약,소형,북북동,17,null
+2004년 05월 20일 15시,24,16.5,134.1,null,null,null,null,null,null,null,null,200
+2004년 05월 20일 15시,48,22.2,135.3,null,null,null,null,null,null,null,null,400
+2004년 05월 20일 15시,72,28.8,139.3,null,null,null,null,null,null,null,null,600
+2004년 05월 21일 15시,0,17.2,134.8,998,null,null,null,null,null,북북동,18,null

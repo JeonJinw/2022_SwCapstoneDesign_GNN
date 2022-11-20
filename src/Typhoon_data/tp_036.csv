@@ -1,0 +1,8 @@
+일시,,위도(N),경도(E),중심기압,초속(m/s),시속(km/h),강풍반경(km)[예외반경],강도,크기,진행방향,이동속도(km/h),70% 확률 반경(km)
+2002년 07월 20일 21시,0,15.8,179.2,1002,18,65,180,약,소형,북서,5,null
+2002년 07월 20일 21시,24,17,178,null,null,null,null,null,null,null,null,180
+2002년 07월 20일 21시,48,18,176.5,null,null,null,null,null,null,null,null,320
+2002년 07월 21일 15시,0,19.1,176.7,1000,18,65,220,약,소형,북서,8,null
+2002년 07월 21일 15시,24,21.7,174.2,null,null,null,null,null,null,null,null,200
+2002년 07월 21일 15시,48,24.8,171.8,null,null,null,null,null,null,null,null,330
+2002년 07월 21일 18시,0,19.5,176.8,1004,null,null,null,null,null,북서,11,null
